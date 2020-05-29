@@ -1,0 +1,16 @@
+karno62dr.cmp
+karno62dr.bak
+fp-lib-table
+fp-info-cache
+*.kicad_pcb-bak
+karno62dr.net
+pcb/design/
+pcb/gerber/
+pcb/karno62dr-cache.lib
+*.ai
+*.csv
+*.xml
+*.dwg
+*.dxf
+*.ods
+*.ini
